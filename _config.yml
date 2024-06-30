@@ -45,6 +45,6 @@ paginate: 6
 paginate_path: "/page/:num/"
 
 show_excerpts: true
-excerpt_length: 20
+excerpt_length: 50
 
 hide_credits: true
