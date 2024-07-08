@@ -16,7 +16,7 @@
 title: Anthony J. Dsouza
 email: aj.anthonydsouza@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Hi, Anthony here. This is my blog, and by reading this, you now are a witness to my life.
+  Hi, Anthony here. This is my blog where I talk about things I find cool. Cool stuff coming soon (╹◡◠)
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://tororo.in" # the base hostname & protocol for your site, e.g. http://example.com
 icon: /assets/images/icon-512.png
@@ -41,7 +41,7 @@ markdown: kramdown
 plugins:
   - jekyll-paginate
 
-paginate: 6
+paginate: 20
 paginate_path: "/page/:num/"
 
 show_excerpts: true
