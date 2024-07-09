@@ -19,7 +19,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Hi, Anthony here. This is my blog where I talk about things I find cool. Cool stuff coming soon (╹◡◠)
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://tororo.in" # the base hostname & protocol for your site, e.g. http://example.com
-icon: /assets/images/icon-512.png
+icon: /assets/images/favicon.png
 twitter_username: tororo_in
 github_username:  tororoin
 
